@@ -1,4 +1,4 @@
-//TO-DO LIST - BY - RITIKA PAREKH
+//TO-DO LIST 
 
 // Basic idea:
 //     1. Insert tasks. 
